@@ -1,3 +1,5 @@
+(Aquest és un fork per adaptar-lo a les plantilles de la cawiki)
+
 # Citer
 
 A citation generator tool for Wikipedia. Currently accessible from:\
